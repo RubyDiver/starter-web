@@ -11,6 +11,10 @@ Some text
 A simple web project
 More text
 
+## How To Contribute
+
+Please fork this repository and then issue Pull Requests for review
+
 ## Purpose
 
 Sample website with plenty of files for demos
