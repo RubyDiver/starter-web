@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Paweł Tatarynowicz -- tatarynowiczpawel2@gmail.com -- <twitter>
 
 # THANKS
 
