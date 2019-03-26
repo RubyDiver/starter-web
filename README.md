@@ -22,4 +22,4 @@ Sample website with plenty of files for demos
 ### Copyright
 
 2019 git. training
-Additional line
+Additional line, more changes for myfeature branch
